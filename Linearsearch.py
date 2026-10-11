@@ -29,7 +29,7 @@ else:
     print("THE value is not found.")
 
 
-####    H A M M A D       N E U R A L
+####    H A M M A D      N E U R A L
 
 
     
